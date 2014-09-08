@@ -37,7 +37,7 @@ $english_array = array(
 	),
 
 	'lang' => array(
-		'archeage' => 'ArcheAge',
+		'archeage'					=> 'ArcheAge',
 		
 		// Profile information
 		'uc_gender'					=> 'Gender',
@@ -47,6 +47,13 @@ $english_array = array(
 		'uc_ability_1'				=> '1. Ability',
 		'uc_ability_2'				=> '2. Ability',
 		'uc_ability_3'				=> '3. Ability',
+		'uc_race'					=> 'Race',
+		'uc_class'					=> 'Class',
+
+		// Admin Settings
+		'core_sett_fs_gamesettings'	=> 'ArcheAge Settings',
+		'uc_faction'				=> 'Faction',
+		'uc_faction_help'			=> 'Select the default faction',
 
 		// Advanced Class Information
 		'uc_ab_0'					=> '-',
