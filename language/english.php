@@ -60,16 +60,16 @@ $english_array = array(
 
 		// Advanced Class Information
 		'uc_ab_0'					=> '-',
-		'uc_ab_1'					=> 'Combat',
-		'uc_ab_2'					=> 'Conjury',
-		'uc_ab_3'					=> 'Fortification',
-		'uc_ab_4'					=> 'Will',
-		'uc_ab_5'					=> 'Death',
-		'uc_ab_6'					=> 'Wild',
-		'uc_ab_7'					=> 'Magic',
-		'uc_ab_8'					=> 'Assassination',
-		'uc_ab_9'					=> 'Artistry',
-		'uc_ab_10'					=> 'Devotion',
+		'uc_ab_1'					=> 'Battlerage',
+		'uc_ab_2'					=> 'Witchcraft',
+		'uc_ab_3'					=> 'Defense',
+		'uc_ab_4'					=> 'Auramancy',
+		'uc_ab_5'					=> 'Occultism',
+		'uc_ab_6'					=> 'Archery',
+		'uc_ab_7'					=> 'Sorcery',
+		'uc_ab_8'					=> 'Shadowplay',
+		'uc_ab_9'					=> 'Songcraft',
+		'uc_ab_10'					=> 'Vitalism',
 
 	),
 );
