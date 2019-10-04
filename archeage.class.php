@@ -58,6 +58,8 @@ if(!class_exists('archeage')) {
 						2 	=> 'all',		// Elf
 						3 	=> 'all',		// Hariharan
 						4 	=> 'all',		// Ferre
+						5	=> 'all',
+						6	=> 'all',
 					),
 				),
 			),

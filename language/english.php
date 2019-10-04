@@ -30,6 +30,7 @@ $english_array = array(
 		3	=> 'Supporter',
 		4	=> 'Melee',
 		5	=> 'Ranged',
+		6	=> 'Swiftblade',
 	),
 	'races' => array(
 		0	=> 'Unknown',
@@ -37,6 +38,8 @@ $english_array = array(
 		2	=> 'Elf',
 		3	=> 'Hariharan',
 		4	=> 'Ferre',
+		5	=> 'Dwarf',
+		6	=> 'Warborn',
 	),
 
 	'lang' => array(
